@@ -15,6 +15,6 @@ you on the other hand can freely choose where to put your turn.
 ```java
 TicTacToe ticTacToe = new TicTacToe(char playerSymbol);
 
-        // start the game
-        ticTacToe.start();
+// start the game
+ticTacToe.start();
 ```
